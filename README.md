@@ -96,4 +96,58 @@ A **Use Case Diagram** is a visual representation of the interactions between us
 Below is a use case diagram illustrating the core interactions for a booking management system:
 ![Booking System Use Case Diagram](alx-booking-uc.png)
 
+# Requirement Analysis for Booking Management System
+
+## Project Overview
+This repository contains the requirement analysis documentation for the Booking Management System. The goal of this project is to define clear requirements and acceptance criteria for features to be developed in the system, ensuring that the product meets the users' needs and expectations.
+
+## Features
+The main features include:
+- User authentication
+- Booking management
+- Payment processing
+- Notifications (email, SMS)
+- Reporting and analytics
+
+## Acceptance Criteria
+
+### Importance of Acceptance Criteria in Requirement Analysis
+Acceptance Criteria are a critical part of requirement analysis as they define the conditions that a feature must meet to be considered complete and functioning. These criteria help ensure that:
+- The product meets the desired quality.
+- Development aligns with the project goals.
+- Testing can be conducted effectively and results can be validated.
+
+With clear Acceptance Criteria, both stakeholders and the development team can be certain about what constitutes a "done" feature. This reduces ambiguity, scope creep, and allows for efficient progress tracking.
+
+### Example: Checkout Feature in a Booking Management System
+For the **Checkout** feature, the Acceptance Criteria could be as follows:
+
+- **AC1:** The system must display a summary of the booking before finalizing the payment. The summary should include:
+  - Booking dates
+  - Location details
+  - Price
+  - User details
+
+- **AC2:** The user must be able to enter and validate their payment details (credit card, PayPal, etc.).
+
+- **AC3:** Upon successful payment, the user should:
+  - Receive a confirmation message on the screen.
+  - Get a receipt with booking details sent via email.
+
+- **AC4:** If the payment fails, the system should show an error message specifying the reason for the failure (e.g., insufficient funds, invalid card details).
+
+- **AC5:** The system should support multiple currencies, automatically converting the amount based on the user's location.
+
+- **AC6:** The system should update the availability of rooms/services once the booking is confirmed.
+
+- **AC7:** The checkout process should complete within 5 minutes; otherwise, the booking should be canceled.
+
+### How to Use the Acceptance Criteria
+These criteria will be used by the development and quality assurance teams to:
+- Guide the development process.
+- Test whether the system works as expected.
+- Ensure the final product aligns with user needs and business goals.
+
+By following these Acceptance Criteria, we ensure the quality of the checkout feature in the Booking Management System.
+
 
