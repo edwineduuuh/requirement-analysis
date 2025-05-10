@@ -36,3 +36,22 @@ Clear requirements help project managers estimate timelines, allocate resources 
 ### 5. Aids in Risk Management
 Requirement analysis helps in identifying potential risks early, allowing teams to develop mitigation strategies before those risks impact the project.
 
+## Key Activities in Requirement Analysis
+
+The Requirement Analysis process consists of several structured activities that help ensure software requirements are clear, complete, and accurate. Below are the five key activities involved:
+
+- **Requirement Gathering**  
+  This involves collecting high-level requirements from stakeholders, clients, and users. It focuses on understanding what the stakeholders expect from the software system.
+
+- **Requirement Elicitation**  
+  A deeper, more interactive process that uses techniques such as interviews, workshops, surveys, and observation to uncover detailed and hidden requirements.
+
+- **Requirement Documentation**  
+  All gathered and elicited requirements are clearly documented in a structured format (e.g., Software Requirements Specification - SRS) to serve as a reference for both stakeholders and the development team.
+
+- **Requirement Analysis and Modeling**  
+  This step involves examining the requirements for clarity, completeness, and feasibility. It may include modeling them using diagrams such as use cases, flowcharts, or data models to better visualize the system.
+
+- **Requirement Validation**  
+  Ensures that the documented requirements accurately reflect the needs of stakeholders. This step checks for correctness, completeness, and alignment with business goals, often involving reviews and walkthroughs with stakeholders.
+
