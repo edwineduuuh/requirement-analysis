@@ -94,6 +94,6 @@ A **Use Case Diagram** is a visual representation of the interactions between us
 ### 📘 Use Case Diagram: Booking System
 
 Below is a use case diagram illustrating the core interactions for a booking management system:
+![alx-booking-uc](https://github.com/user-attachments/assets/502c286c-84a2-498b-b8ff-14507b94e700)
 
-![Uploading alx-booking-uc.png…]()
 
